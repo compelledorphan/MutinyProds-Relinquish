@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 4d20518bbf72e9940b17168bfe51d1e0
+timeCreated: 1441319779
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface4
+    100004: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface10
+    100006: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform1
+    100008: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform2
+    100010: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface10
+    100012: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform1
+    100014: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform10
+    100016: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform11
+    100018: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform12
+    100020: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform13
+    100022: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform14
+    100024: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform2
+    100026: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform3
+    100028: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform4
+    100030: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform5
+    100032: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform6
+    100034: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform7
+    100036: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform8
+    100038: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform9
+    100040: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface10
+    100042: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface11
+    100044: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface12
+    100046: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface13
+    100048: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface14
+    100050: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface15
+    100052: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface16
+    100054: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface17
+    100056: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface18
+    100058: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface4
+    100060: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface5
+    100062: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface6
+    100064: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface7
+    100066: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface8
+    100068: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface9
+    100070: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform2
+    100072: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface3
+    100074: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface91
+    100076: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface2
+    100078: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface3
+    100080: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform1
+    100082: polySurface134
+    100084: polySurface134 1
+    100086: polySurface135
+    100088: polySurface136
+    100090: polySurface137
+    100092: polySurface138
+    100094: polySurface139
+    100096: polySurface140
+    100098: polySurface141
+    100100: polySurface142
+    100102: polySurface143
+    100104: polySurface144
+    100106: polySurface145
+    100108: polySurface146
+    100110: polySurface147
+    100112: polySurface148
+    100114: polySurface149
+    100116: polySurface150
+    100118: transform24
+    100120: transform25
+    100122: transform26
+    100124: transform27
+    100126: transform28
+    100128: transform29
+    100130: transform30
+    100132: transform31
+    100134: transform32
+    100136: transform33
+    100138: transform34
+    100140: transform35
+    100142: transform36
+    100144: transform37
+    100146: transform38
+    100148: transform39
+    100150: transform40
+    100152: transform41
+    400000: //RootNode
+    400002: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface4
+    400004: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface10
+    400006: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform1
+    400008: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform2
+    400010: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface10
+    400012: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform1
+    400014: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform10
+    400016: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform11
+    400018: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform12
+    400020: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform13
+    400022: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform14
+    400024: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform2
+    400026: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform3
+    400028: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform4
+    400030: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform5
+    400032: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform6
+    400034: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform7
+    400036: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform8
+    400038: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform9
+    400040: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface10
+    400042: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface11
+    400044: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface12
+    400046: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface13
+    400048: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface14
+    400050: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface15
+    400052: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface16
+    400054: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface17
+    400056: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface18
+    400058: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface4
+    400060: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface5
+    400062: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface6
+    400064: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface7
+    400066: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface8
+    400068: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface9
+    400070: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform2
+    400072: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface3
+    400074: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface91
+    400076: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface2
+    400078: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface3
+    400080: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:transform1
+    400082: polySurface134
+    400084: polySurface134 1
+    400086: polySurface135
+    400088: polySurface136
+    400090: polySurface137
+    400092: polySurface138
+    400094: polySurface139
+    400096: polySurface140
+    400098: polySurface141
+    400100: polySurface142
+    400102: polySurface143
+    400104: polySurface144
+    400106: polySurface145
+    400108: polySurface146
+    400110: polySurface147
+    400112: polySurface148
+    400114: polySurface149
+    400116: polySurface150
+    400118: transform24
+    400120: transform25
+    400122: transform26
+    400124: transform27
+    400126: transform28
+    400128: transform29
+    400130: transform30
+    400132: transform31
+    400134: transform32
+    400136: transform33
+    400138: transform34
+    400140: transform35
+    400142: transform36
+    400144: transform37
+    400146: transform38
+    400148: transform39
+    400150: transform40
+    400152: transform41
+    2300000: //RootNode
+    2300002: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface10
+    2300004: polySurface134
+    3300000: //RootNode
+    3300002: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface10
+    3300004: polySurface134
+    4300000: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface4
+    4300002: Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:Exterior_Wall_Low_Final:polySurface10
+    4300004: polySurface134
+    4300006: polySurface137
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
