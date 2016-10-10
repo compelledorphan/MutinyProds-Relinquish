@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: d9a8cb71a36dcab4888ccdb5f110e3af
+timeCreated: 1447467823
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ' Root'
+    100002: Arms
+    100004: LArmLower
+    100006: LArmUpper
+    100008: LArmWrist
+    100010: LHand
+    100012: LIndex
+    100014: LIndex01
+    100016: LIndex02
+    100018: LPinky
+    100020: LPinky01
+    100022: LPinky02
+    100024: LPointer
+    100026: LPointer01
+    100028: LPointer02
+    100030: LRing
+    100032: LRing01
+    100034: LRing02
+    100036: LThumb
+    100038: LThumb01
+    100040: LThumb02
+    100042: RArmLower
+    100044: RArmUpper
+    100046: RArmWrist
+    100048: //RootNode
+    100050: RHand
+    100052: RIndex
+    100054: RIndex01
+    100056: RIndex02
+    100058: RPinky
+    100060: RPinky01
+    100062: RPinky02
+    100064: RPointer
+    100066: RPointer01
+    100068: RPointer02
+    100070: RRing
+    100072: RRing01
+    100074: RRing02
+    100076: RThumb
+    100078: RThumb01
+    100080: RThumb02
+    100082: WeapBullet
+    100084: WeapHammer
+    100086: WeapHandle
+    100088: WeapLever
+    100090: WeapMech
+    100092: WeapRoot
+    100094: WeapTrigger
+    100096: WeapWinchester
+    400000: ' Root'
+    400002: Arms
+    400004: LArmLower
+    400006: LArmUpper
+    400008: LArmWrist
+    400010: LHand
+    400012: LIndex
+    400014: LIndex01
+    400016: LIndex02
+    400018: LPinky
+    400020: LPinky01
+    400022: LPinky02
+    400024: LPointer
+    400026: LPointer01
+    400028: LPointer02
+    400030: LRing
+    400032: LRing01
+    400034: LRing02
+    400036: LThumb
+    400038: LThumb01
+    400040: LThumb02
+    400042: RArmLower
+    400044: RArmUpper
+    400046: RArmWrist
+    400048: //RootNode
+    400050: RHand
+    400052: RIndex
+    400054: RIndex01
+    400056: RIndex02
+    400058: RPinky
+    400060: RPinky01
+    400062: RPinky02
+    400064: RPointer
+    400066: RPointer01
+    400068: RPointer02
+    400070: RRing
+    400072: RRing01
+    400074: RRing02
+    400076: RThumb
+    400078: RThumb01
+    400080: RThumb02
+    400082: WeapBullet
+    400084: WeapHammer
+    400086: WeapHandle
+    400088: WeapLever
+    400090: WeapMech
+    400092: WeapRoot
+    400094: WeapTrigger
+    400096: WeapWinchester
+    4300000: Arms
+    4300002: WeapWinchester
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Arms
+    13700002: WeapWinchester
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ' Root'
+        weight: 1
+      - path: ' Root/LArmUpper'
+        weight: 1
+      - path: ' Root/LArmUpper/LArmLower'
+        weight: 1
+      - path: ' Root/LArmUpper/LArmLower/LArmWrist'
+        weight: 1
+      - path: ' Root/LArmUpper/LArmLower/LArmWrist/LHand'
+        weight: 1
+      - path: ' Root/LArmUpper/LArmLower/LArmWrist/LHand/LIndex'
+        weight: 1
+      - path: ' Root/LArmUpper/LArmLower/LArmWrist/LHand/LIndex/LIndex01'
+        weight: 1
+      - path: ' Root/LArmUpper/LArmLower/LArmWrist/LHand/LIndex/LIndex01/LIndex02'
+        weight: 1
+      - path: ' Root/LArmUpper/LArmLower/LArmWrist/LHand/LPinky'
+        weight: 1
+      - path: ' Root/LArmUpper/LArmLower/LArmWrist/LHand/LPinky/LPinky01'
+        weight: 1
+      - path: ' Root/LArmUpper/LArmLower/LArmWrist/LHand/LPinky/LPinky01/LPinky02'
+        weight: 1
+      - path: ' Root/LArmUpper/LArmLower/LArmWrist/LHand/LPointer'
+        weight: 1
+      - path: ' Root/LArmUpper/LArmLower/LArmWrist/LHand/LPointer/LPointer01'
+        weight: 1
+      - path: ' Root/LArmUpper/LArmLower/LArmWrist/LHand/LPointer/LPointer01/LPointer02'
+        weight: 1
+      - path: ' Root/LArmUpper/LArmLower/LArmWrist/LHand/LRing'
+        weight: 1
+      - path: ' Root/LArmUpper/LArmLower/LArmWrist/LHand/LRing/LRing01'
+        weight: 1
+      - path: ' Root/LArmUpper/LArmLower/LArmWrist/LHand/LRing/LRing01/LRing02'
+        weight: 1
+      - path: ' Root/LArmUpper/LArmLower/LArmWrist/LHand/LThumb'
+        weight: 1
+      - path: ' Root/LArmUpper/LArmLower/LArmWrist/LHand/LThumb/LThumb01'
+        weight: 1
+      - path: ' Root/LArmUpper/LArmLower/LArmWrist/LHand/LThumb/LThumb01/LThumb02'
+        weight: 1
+      - path: ' Root/RArmUpper'
+        weight: 1
+      - path: ' Root/RArmUpper/RArmLower'
+        weight: 1
+      - path: ' Root/RArmUpper/RArmLower/RArmWrist'
+        weight: 1
+      - path: ' Root/RArmUpper/RArmLower/RArmWrist/RHand'
+        weight: 1
+      - path: ' Root/RArmUpper/RArmLower/RArmWrist/RHand/RIndex'
+        weight: 1
+      - path: ' Root/RArmUpper/RArmLower/RArmWrist/RHand/RIndex/RIndex01'
+        weight: 1
+      - path: ' Root/RArmUpper/RArmLower/RArmWrist/RHand/RIndex/RIndex01/RIndex02'
+        weight: 1
+      - path: ' Root/RArmUpper/RArmLower/RArmWrist/RHand/RPinky'
+        weight: 1
+      - path: ' Root/RArmUpper/RArmLower/RArmWrist/RHand/RPinky/RPinky01'
+        weight: 1
+      - path: ' Root/RArmUpper/RArmLower/RArmWrist/RHand/RPinky/RPinky01/RPinky02'
+        weight: 1
+      - path: ' Root/RArmUpper/RArmLower/RArmWrist/RHand/RPointer'
+        weight: 1
+      - path: ' Root/RArmUpper/RArmLower/RArmWrist/RHand/RPointer/RPointer01'
+        weight: 1
+      - path: ' Root/RArmUpper/RArmLower/RArmWrist/RHand/RPointer/RPointer01/RPointer02'
+        weight: 1
+      - path: ' Root/RArmUpper/RArmLower/RArmWrist/RHand/RRing'
+        weight: 1
+      - path: ' Root/RArmUpper/RArmLower/RArmWrist/RHand/RRing/RRing01'
+        weight: 1
+      - path: ' Root/RArmUpper/RArmLower/RArmWrist/RHand/RRing/RRing01/RRing02'
+        weight: 1
+      - path: ' Root/RArmUpper/RArmLower/RArmWrist/RHand/RThumb'
+        weight: 1
+      - path: ' Root/RArmUpper/RArmLower/RArmWrist/RHand/RThumb/RThumb01'
+        weight: 1
+      - path: ' Root/RArmUpper/RArmLower/RArmWrist/RHand/RThumb/RThumb01/RThumb02'
+        weight: 1
+      - path: Arms
+        weight: 1
+      - path: WeapHandle
+        weight: 1
+      - path: WeapHandle/WeapRoot
+        weight: 1
+      - path: WeapHandle/WeapRoot/WeapBullet
+        weight: 1
+      - path: WeapHandle/WeapRoot/WeapHammer
+        weight: 1
+      - path: WeapHandle/WeapRoot/WeapLever
+        weight: 1
+      - path: WeapHandle/WeapRoot/WeapMech
+        weight: 1
+      - path: WeapHandle/WeapRoot/WeapTrigger
+        weight: 1
+      - path: WeapWinchester
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: 0c64d2f20f3068a4bbc33ec83806a835
+timeCreated: 1443656996
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: _bullet_case
+    100002: arm_obj:polySurface7
+    100004: Barrel
+    100006: Bullet_1
+    100008: Bullet_10
+    100010: Bullet_11
+    100012: Bullet_12
+    100014: Bullet_1_end
+    100016: Bullet_2
+    100018: Bullet_2_end
+    100020: Bullet_3
+    100022: Bullet_3_end
+    100024: Bullet_4
+    100026: Bullet_4_end
+    100028: Bullet_5
+    100030: Bullet_5_end
+    100032: Bullet_6
+    100034: Bullet_6_end
+    100036: Bullet_7
+    100038: Bullet_8
+    100040: Bullet_9
+    100042: gun_body
+    100044: Gun_handle
+    100046: Hammer
+    100048: Hammer_end
+    100050: ikHandle1
+    100052: IMPORTANT_UV_revolver_obj:Mesh
+    100054: L_bicep
+    100056: L_forearm
+    100058: L_hand
+    100060: L_index_1
+    100062: L_index_2
+    100064: L_index_3
+    100066: L_index_4
+    100068: L_mid_1
+    100070: L_mid_2
+    100072: L_mid_3
+    100074: L_mid_4
+    100076: L_pinky_1
+    100078: L_pinky_2
+    100080: L_pinky_3
+    100082: L_pinky_4
+    100084: L_ring_1
+    100086: L_ring_2
+    100088: L_ring_3
+    100090: L_ring_4
+    100092: L_thumb_1
+    100094: L_thumb_2
+    100096: L_thumb_3
+    100098: left
+    100100: polySurface1
+    100102: polySurface11
+    100104: polySurface2
+    100106: polySurface3
+    100108: polySurface4
+    100110: polySurface5
+    100112: polySurface6
+    100114: polySurface7
+    100116: polySurface8
+    100118: polySurface9
+    100120: R_bicep
+    100122: R_forearm
+    100124: R_hand
+    100126: R_ikHandle
+    100128: R_index_1
+    100130: R_index_2
+    100132: R_index_3
+    100134: R_index_4
+    100136: R_mid_1
+    100138: R_mid_2
+    100140: R_mid_3
+    100142: R_mid_4
+    100144: R_pinky_1
+    100146: R_pinky_2
+    100148: R_pinky_3
+    100150: R_pinky_4
+    100152: R_ring_1
+    100154: R_ring_2
+    100156: R_ring_3
+    100158: R_ring_4
+    100160: R_thumb_1
+    100162: R_thumb_2
+    100164: R_thumb_3
+    100166: revolver_obj1:polySurface5
+    100168: Trigger
+    100170: //RootNode
+    400000: _bullet_case
+    400002: arm_obj:polySurface7
+    400004: Barrel
+    400006: Bullet_1
+    400008: Bullet_10
+    400010: Bullet_11
+    400012: Bullet_12
+    400014: Bullet_1_end
+    400016: Bullet_2
+    400018: Bullet_2_end
+    400020: Bullet_3
+    400022: Bullet_3_end
+    400024: Bullet_4
+    400026: Bullet_4_end
+    400028: Bullet_5
+    400030: Bullet_5_end
+    400032: Bullet_6
+    400034: Bullet_6_end
+    400036: Bullet_7
+    400038: Bullet_8
+    400040: Bullet_9
+    400042: gun_body
+    400044: Gun_handle
+    400046: Hammer
+    400048: Hammer_end
+    400050: ikHandle1
+    400052: IMPORTANT_UV_revolver_obj:Mesh
+    400054: L_bicep
+    400056: L_forearm
+    400058: L_hand
+    400060: L_index_1
+    400062: L_index_2
+    400064: L_index_3
+    400066: L_index_4
+    400068: L_mid_1
+    400070: L_mid_2
+    400072: L_mid_3
+    400074: L_mid_4
+    400076: L_pinky_1
+    400078: L_pinky_2
+    400080: L_pinky_3
+    400082: L_pinky_4
+    400084: L_ring_1
+    400086: L_ring_2
+    400088: L_ring_3
+    400090: L_ring_4
+    400092: L_thumb_1
+    400094: L_thumb_2
+    400096: L_thumb_3
+    400098: left
+    400100: polySurface1
+    400102: polySurface11
+    400104: polySurface2
+    400106: polySurface3
+    400108: polySurface4
+    400110: polySurface5
+    400112: polySurface6
+    400114: polySurface7
+    400116: polySurface8
+    400118: polySurface9
+    400120: R_bicep
+    400122: R_forearm
+    400124: R_hand
+    400126: R_ikHandle
+    400128: R_index_1
+    400130: R_index_2
+    400132: R_index_3
+    400134: R_index_4
+    400136: R_mid_1
+    400138: R_mid_2
+    400140: R_mid_3
+    400142: R_mid_4
+    400144: R_pinky_1
+    400146: R_pinky_2
+    400148: R_pinky_3
+    400150: R_pinky_4
+    400152: R_ring_1
+    400154: R_ring_2
+    400156: R_ring_3
+    400158: R_ring_4
+    400160: R_thumb_1
+    400162: R_thumb_2
+    400164: R_thumb_3
+    400166: revolver_obj1:polySurface5
+    400168: Trigger
+    400170: //RootNode
+    2300000: polySurface11
+    3300000: polySurface11
+    4300000: arm_obj:polySurface7
+    4300002: polySurface1
+    4300004: polySurface2
+    4300006: polySurface3
+    4300008: polySurface4
+    4300010: polySurface5
+    4300012: polySurface6
+    4300014: polySurface8
+    4300016: polySurface9
+    4300018: Bullet_7
+    4300020: Bullet_8
+    4300022: Bullet_9
+    4300024: Bullet_10
+    4300026: Bullet_11
+    4300028: Bullet_12
+    4300030: polySurface7
+    4300032: polySurface11
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: arm_obj:polySurface7
+    13700002: Bullet_10
+    13700004: Bullet_11
+    13700006: Bullet_12
+    13700008: Bullet_7
+    13700010: Bullet_8
+    13700012: Bullet_9
+    13700014: polySurface1
+    13700016: polySurface2
+    13700018: polySurface3
+    13700020: polySurface4
+    13700022: polySurface5
+    13700024: polySurface6
+    13700026: polySurface7
+    13700028: polySurface8
+    13700030: polySurface9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: arm_obj:polySurface7
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: IMPORTANT_UV_revolver_obj:Mesh
+        weight: 1
+      - path: IMPORTANT_UV_revolver_obj:Mesh/polySurface11
+        weight: 1
+      - path: L_bicep
+        weight: 1
+      - path: L_bicep/L_forearm
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_index_1
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_index_1/L_index_2
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_index_1/L_index_2/L_index_3
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_index_1/L_index_2/L_index_3/L_index_4
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_mid_1
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_mid_1/L_mid_2
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_mid_1/L_mid_2/L_mid_3
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_mid_1/L_mid_2/L_mid_3/L_mid_4
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_pinky_1
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_pinky_1/L_pinky_2
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_pinky_1/L_pinky_2/L_pinky_3
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_pinky_1/L_pinky_2/L_pinky_3/L_pinky_4
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_ring_1
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_ring_1/L_ring_2
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_ring_1/L_ring_2/L_ring_3
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_ring_1/L_ring_2/L_ring_3/L_ring_4
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_thumb_1
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_thumb_1/L_thumb_2
+        weight: 1
+      - path: L_bicep/L_forearm/L_hand/L_thumb_1/L_thumb_2/L_thumb_3
+        weight: 1
+      - path: left
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: R_bicep
+        weight: 1
+      - path: R_bicep/R_forearm
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle/gun_body
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle/gun_body/_bullet_case
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle/gun_body/_bullet_case/Bullet_1
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle/gun_body/_bullet_case/Bullet_1/Bullet_1_end
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle/gun_body/_bullet_case/Bullet_2
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle/gun_body/_bullet_case/Bullet_2/Bullet_2_end
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle/gun_body/_bullet_case/Bullet_3
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle/gun_body/_bullet_case/Bullet_3/Bullet_3_end
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle/gun_body/_bullet_case/Bullet_4
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle/gun_body/_bullet_case/Bullet_4/Bullet_4_end
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle/gun_body/_bullet_case/Bullet_5
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle/gun_body/_bullet_case/Bullet_5/Bullet_5_end
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle/gun_body/_bullet_case/Bullet_6
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle/gun_body/_bullet_case/Bullet_6/Bullet_6_end
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle/gun_body/Barrel
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle/gun_body/Hammer
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle/gun_body/Hammer/Hammer_end
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/Gun_handle/gun_body/Trigger
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_index_1
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_index_1/R_index_2
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_index_1/R_index_2/R_index_3
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_index_1/R_index_2/R_index_3/R_index_4
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_mid_1
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_mid_1/R_mid_2
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_mid_1/R_mid_2/R_mid_3
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_mid_1/R_mid_2/R_mid_3/R_mid_4
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_pinky_1
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_pinky_1/R_pinky_2
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_pinky_1/R_pinky_2/R_pinky_3
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_pinky_1/R_pinky_2/R_pinky_3/R_pinky_4
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_ring_1
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_ring_1/R_ring_2
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_ring_1/R_ring_2/R_ring_3
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_ring_1/R_ring_2/R_ring_3/R_ring_4
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_thumb_1
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_thumb_1/R_thumb_2
+        weight: 1
+      - path: R_bicep/R_forearm/R_hand/R_thumb_1/R_thumb_2/R_thumb_3
+        weight: 1
+      - path: R_ikHandle
+        weight: 1
+      - path: revolver_obj1:polySurface5
+        weight: 1
+      - path: revolver_obj1:polySurface5/Bullet_7
+        weight: 1
+      - path: revolver_obj1:polySurface5/Bullet_8
+        weight: 1
+      - path: revolver_obj1:polySurface5/Bullet_9
+        weight: 1
+      - path: revolver_obj1:polySurface5/Bullet_10
+        weight: 1
+      - path: revolver_obj1:polySurface5/Bullet_11
+        weight: 1
+      - path: revolver_obj1:polySurface5/Bullet_12
+        weight: 1
+      - path: revolver_obj1:polySurface5/polySurface1
+        weight: 1
+      - path: revolver_obj1:polySurface5/polySurface2
+        weight: 1
+      - path: revolver_obj1:polySurface5/polySurface3
+        weight: 1
+      - path: revolver_obj1:polySurface5/polySurface4
+        weight: 1
+      - path: revolver_obj1:polySurface5/polySurface5
+        weight: 1
+      - path: revolver_obj1:polySurface5/polySurface6
+        weight: 1
+      - path: revolver_obj1:polySurface5/polySurface8
+        weight: 1
+      - path: revolver_obj1:polySurface5/polySurface9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
