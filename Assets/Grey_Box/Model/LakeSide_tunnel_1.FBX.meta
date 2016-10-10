@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 2d583d8e60133ea43b04d6e293f91961
+timeCreated: 1445481064
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Broken_Boat
+    100002: Cellar1
+    100004: Cellar2
+    100006: fence_low
+    100008: Hedges
+    100010: jetty
+    100012: //RootNode
+    100014: Local_Terrain
+    100016: LTypeStair001
+    100018: Storm_Frame
+    100020: Torch
+    100022: Tun_Buttom_Brick
+    100024: Tun_Ent
+    100026: Tun_Upper_Brick
+    100028: Underground_Terrain
+    100030: Wood_Door
+    100032: World_Terrain
+    400000: Broken_Boat
+    400002: Cellar1
+    400004: Cellar2
+    400006: fence_low
+    400008: Hedges
+    400010: jetty
+    400012: //RootNode
+    400014: Local_Terrain
+    400016: LTypeStair001
+    400018: Storm_Frame
+    400020: Torch
+    400022: Tun_Buttom_Brick
+    400024: Tun_Ent
+    400026: Tun_Upper_Brick
+    400028: Underground_Terrain
+    400030: Wood_Door
+    400032: World_Terrain
+    2300000: Broken_Boat
+    2300002: Cellar1
+    2300004: Cellar2
+    2300006: fence_low
+    2300008: Hedges
+    2300010: jetty
+    2300012: Local_Terrain
+    2300014: LTypeStair001
+    2300016: Storm_Frame
+    2300018: Torch
+    2300020: Tun_Buttom_Brick
+    2300022: Tun_Ent
+    2300024: Tun_Upper_Brick
+    2300026: Underground_Terrain
+    2300028: Wood_Door
+    2300030: World_Terrain
+    3300000: Broken_Boat
+    3300002: Cellar1
+    3300004: Cellar2
+    3300006: fence_low
+    3300008: Hedges
+    3300010: jetty
+    3300012: Local_Terrain
+    3300014: LTypeStair001
+    3300016: Storm_Frame
+    3300018: Torch
+    3300020: Tun_Buttom_Brick
+    3300022: Tun_Ent
+    3300024: Tun_Upper_Brick
+    3300026: Underground_Terrain
+    3300028: Wood_Door
+    3300030: World_Terrain
+    4300000: Tun_Ent
+    4300002: Tun_Upper_Brick
+    4300004: Tun_Buttom_Brick
+    4300006: Cellar2
+    4300008: World_Terrain
+    4300010: Broken_Boat
+    4300012: Local_Terrain
+    4300014: Cellar1
+    4300016: Underground_Terrain
+    4300018: fence_low
+    4300020: Torch
+    4300022: Hedges
+    4300024: Wood_Door
+    4300026: Storm_Frame
+    4300028: LTypeStair001
+    4300030: jetty
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
