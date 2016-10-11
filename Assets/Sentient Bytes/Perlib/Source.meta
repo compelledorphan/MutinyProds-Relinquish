@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: daf264241d69fe54b960fed782e754c1
+labels:
+- settings
+- progress
+- savegame
+- generic
+- xml
+- file
+- preferences
+- prefs
+- playerprefs
+- encrypted
+- encrypt
+- encryption
+- safe
+- save
+- persistency
+- persistent
+folderAsset: yes
+DefaultImporter:
+  userData: 

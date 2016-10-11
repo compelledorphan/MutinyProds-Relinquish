@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 31046b0c55a664e41ac3a8b71ad24e91
+labels:
+- settings
+- progress
+- savegame
+- generic
+- encryption
+- xml
+- persistent
+- save
+- preferences
+- playerprefs
+- file
+- prefs
+- encrypted
+- encrypt
+- safe
+- persistency
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
